@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abbenisha Ann Michael Benedict
 ======================================================================================================================================================
 
-I'm a front end developer from Malaysia
+I'm a learning programmer from Malaysia
 ---------------------------------------
 
 1st Year Bachelor of Computer Science (Graphic and Multimedia Software) student in Universiti Teknologi Malaysia (UTM)
