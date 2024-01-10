@@ -10,13 +10,13 @@ I'm a front end developer from Malaysia
 * ✉️  You can contact me at [annmichael@graduate.utm.my](mailto:annmichael@graduate.utm.my)
 * 🧠  I'm learning C / C++ Language
 * 🤝  I'm open to collaborating on:
-* - \*\*Web Development
-* - \*\*Machine Learning
-* - \*\*Open Source Contributions
-* - \*\*Game Development
-* - \*\*Hackathons
-* - \*\*Mobile App Development
-* - \*\*Community Initiatives
+   - \*\*Web Development
+   - \*\*Machine Learning
+   - \*\*Open Source Contributions
+   - \*\*Game Development
+   - \*\*Hackathons
+   - \*\*Mobile App Development
+   - \*\*Community Initiatives
   If you have a project idea or are looking for a collaborator with similar interests, feel free to reach out!
 * ⚡  I'm always excited about new opportunities and the chance to learn from others.
 
