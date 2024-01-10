@@ -5,6 +5,11 @@ I'm a front end developer from Malaysia
 ---------------------------------------
 
 1st Year Bachelor of Computer Science (Graphic and Multimedia Software) student in Universiti Teknologi Malaysia (UTM)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abbenishaann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=abbenishaann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [annmichael@graduate.utm.my](mailto:annmichael@graduate.utm.my)
@@ -44,9 +49,5 @@ src="https://img.shields.io/github/followers/abbenishaann?logo=github&style=for-
 
 <a href="https://github.com/abbenishaann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbenishaann&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abbenishaann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=abbenishaann&icon=0&color=0)](https://visitcount.itsvg.in)
 
