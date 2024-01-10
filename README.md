@@ -16,9 +16,7 @@ I'm a learning programmer from Malaysia
 * 🧠  I'm learning C / C++ Language
 * 🤝  I'm open to collaborating on:
    - \*Web Development
-   - \*Machine Learning
    - \*Open Source Contributions
-   - \*Game Development
    - \*Hackathons
    - \*Mobile App Development
    - \*Community Initiatives
