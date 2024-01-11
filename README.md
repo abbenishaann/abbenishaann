@@ -53,12 +53,4 @@ src="https://img.shields.io/github/followers/abbenishaann?logo=github&style=for-
 
 <a href="https://github.com/abbenishaann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbenishaann&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/abbenishaann/ASSIGNMENTS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abbenishaann&repo=ASSIGNMENTS&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/abbenishaann/PC-ASSEMBLE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abbenishaann&repo=PC-ASSEMBLE&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/abbenishaann/E-PORTFOLIO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abbenishaann&repo=E-PORTFOLIO&title_color=facc15&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
 
