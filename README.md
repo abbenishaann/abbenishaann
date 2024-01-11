@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abbenisha Ann Michael Benedict
 ======================================================================================================================================================
 
-I'm a learning programmer from Malaysia
+I'm pursuing Bachelor of Computer Science (Graphic and Multimedia Software) student in University of Teknology Malaysia (UTM)
 ---------------------------------------
 
-1st Year Bachelor of Computer Science (Graphic and Multimedia Software) student in Universiti Teknologi Malaysia (UTM)
-
-## Feel free to explore more about me by visiting [my E-Portfolio](https://abbenishaann.github.io/E-PORTFOLIO/) 🌐✨.
+# Feel free to explore more about me by visiting [my E-Portfolio](https://abbenishaann.github.io/E-PORTFOLIO/) 🌐✨.
 
 ## 🏆 GitHub Trophies
 
