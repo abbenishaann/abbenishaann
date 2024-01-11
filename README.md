@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a learning programmer from Malaysia
 ---------------------------------------
 
-1st Year Bachelor of Computer Science (Graphic and Multimedia Software) student in Universiti Teknologi Malaysia (UTM)
-## 🏆 GitHub Trophies
-
 ## Feel free to explore more about me by visiting [my E-Portfolio](https://abbenishaann.github.io/E-PORTFOLIO/).
 
+1st Year Bachelor of Computer Science (Graphic and Multimedia Software) student in Universiti Teknologi Malaysia (UTM)
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=abbenishaann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
