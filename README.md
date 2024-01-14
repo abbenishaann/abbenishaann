@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm pursuing Bachelor of Computer Science (Graphic and Multimedia Software) student in University of Teknology Malaysia (UTM)
 ---------------------------------------
-
-# Feel free to explore more about me by visiting [my E-Portfolio](https://abbenishaann.github.io/E-PORTFOLIO/) 🌐✨.
-# My Portfolio
+# My Portfolio [my E-Portfolio](https://abbenishaann.github.io/E-PORTFOLIO/) 🌐✨.
 
 ## Education 🎓
 
