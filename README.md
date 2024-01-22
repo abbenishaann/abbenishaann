@@ -69,8 +69,6 @@ I'm pursuing Bachelor of Computer Science (Graphic and Multimedia Software) stud
 ![](https://github-profile-trophy.vercel.app/?username=abbenishaann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abbenishaann&icon=0&color=0)](https://visitcount.itsvg.in)
-
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [annmichael@graduate.utm.my](mailto:annmichael@graduate.utm.my)
 * 🧠  I'm learning C / C++ Language
